@@ -1,4 +1,4 @@
-quizapp
+Name That NBA Player - Quiz App
 =======
 
-quizz
+A quiz app build with HTML,JS & SCSS
