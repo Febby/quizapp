@@ -66,7 +66,7 @@ $(document).ready(function () {
 	var questions = [];
 
 	questions[0] = new Question("img/lebron.png", "LeBron James", ".choice2", ["Dwayne Wade", "Kobe Bryant", "Chris Rock", "Derrick Rose"]);
-	questions[1] = new Question("img/wade.png", "Dwayne Wade", ".choice1", ["Tim Duncan", "Kobe Bryant", "Dwayne Wade", "Derrick Rose"]);
+	questions[1] = new Question("img/wade.png", "Dwayne Wade", ".choice1", ["Tim Duncan", "Kobe Bryant", "Chris Rock", "Derrick Rose"]);
 	questions[2] = new Question("img/kobe.png", "Kobe Bryant", ".choice3", ["Dwayne Wade", "Tim Duncan", "LeBron James", "Derrick Rose"]);
 	questions[3] = new Question("img/rose.png", "Derrick Rose", ".choice4", ["Dwayne Wade", "Kobe Bryant", "LeBron James", "Tim Duncan"]);
   questions[4] = new Question("img/duncan.png", "Tim Duncan", ".choice2", ["Chris Rock", "Kobe Bryant", "LeBron James", "Derrick Rose"]);
