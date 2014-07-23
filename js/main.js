@@ -26,7 +26,7 @@ $(document).ready(function () {
 
 			var i = 0;
 
-			for (var x = 0; x < choices.length; x++) {
+			for (var x = 0; x <= choices.length; x++) {
 				falseAnswers = choices[x];
 
 				if (falseAnswers != choice) {
